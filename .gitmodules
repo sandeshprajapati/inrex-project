@@ -19,3 +19,6 @@
 [submodule "inrex-kafka-stepup"]
 	path = inrex-kafka-stepup
 	url = https://github.com/sandeshprajapati/inrex-kafka-stepup.git
+[submodule "inrex-payment-service"]
+	path = inrex-payment-service
+	url = https://github.com/sandeshprajapati/inrex-payment-service.git

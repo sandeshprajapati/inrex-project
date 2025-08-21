@@ -10,3 +10,6 @@
 [submodule "inrex-order-service"]
 	path = inrex-order-service
 	url = https://github.com/sandeshprajapati/inrex-order-service.git
+[submodule "inrex-market-data-service"]
+	path = inrex-market-data-service
+	url = https://github.com/sandeshprajapati/inrex-market-data-service.git

@@ -1,0 +1,12 @@
+[submodule "inrex-ui"]
+	path = inrex-ui
+	url = https://github.com/sandeshprajapati/inrex_ui.git
+[submodule "inrex-gateway-service"]
+	path = inrex-gateway-service
+	url = https://github.com/sandeshprajapati/inrex-gateway-service.git
+[submodule "inrex-portfolio-service"]
+	path = inrex-portfolio-service
+	url = https://github.com/sandeshprajapati/inrex-portfolio-service.git
+[submodule "inrex-order-service"]
+	path = inrex-order-service
+	url = https://github.com/sandeshprajapati/inrex-order-service.git

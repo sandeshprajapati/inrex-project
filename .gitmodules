@@ -13,3 +13,6 @@
 [submodule "inrex-market-data-service"]
 	path = inrex-market-data-service
 	url = https://github.com/sandeshprajapati/inrex-market-data-service.git
+[submodule "inrex_keyclock"]
+	path = inrex_keyclock
+	url = https://github.com/sandeshprajapati/inrex_keyclock.git
